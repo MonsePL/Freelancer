@@ -1,3 +1,50 @@
 /*
  * Estilos de tu proyecto
  */
+
+ body{
+   background: ;
+ }
+
+.box-work{
+    box-sizing: border-box;
+    box-sizing: border-box;
+
+    width:170px;
+    height: 100%;
+  }
+
+  ul {
+    background-color:#2C3E50;
+  }
+
+  li {
+    display: inline-block;
+    padding: 30px;
+    list-style: none;
+  }
+
+  a {
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+    font-family: helvetica;
+  }
+
+  a:hover{
+    color:#19f211;
+  }
+
+  span{
+    color:whitesmoke;
+    margin: 0 100px;
+    font-weight: 900;
+    font-family: helvetica;
+  }
+
+
+  header {
+    text-align: center;
+    background: #18BC9C;
+    color: white;
+  }
